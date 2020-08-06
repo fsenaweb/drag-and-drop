@@ -1,4 +1,4 @@
-# gitscrum
+# Drag and drop
 
 ## Project setup
 ```
